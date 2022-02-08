@@ -1,1 +1,2 @@
-feature2 testing
+
+This is feature1 for checking
